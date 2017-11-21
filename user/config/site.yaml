@@ -1,7 +1,6 @@
-title: Grav
+title: My Portfolio
 author:
-  name: Joe Bloggs
-  email: 'joe@test.com'
+  name: Andrea Ristori
+  email: 'andrea@ristori.org'
 metadata:
-    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
-
+    description: 'Personal site of UX Designer Andrea Ristori'
